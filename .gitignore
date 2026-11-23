@@ -1,0 +1,7 @@
+# Añadir cambios a la rama main añadiendo un directorio vacío y un archivo
+# .gitignore para ignorar todos los archivos markdown excepto README.md y LICENSE.md
+*.md
+
+# Excepciones
+!README.md
+!LICENSE.md
