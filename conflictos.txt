@@ -1,1 +1,1 @@
-Linea modificada por rama_uno
+Linea resuelta tras resolver conflicto (rama_uno + rama_dos)
